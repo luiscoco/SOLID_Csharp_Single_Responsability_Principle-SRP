@@ -1,5 +1,8 @@
 # SOLID_Csharp_Single_Responsability_Principle-SRP
 
+## Single Responsibility Principle (SRP):
+This principle states that a class should have only one reason to change. In other words, a class should have a single responsibility or purpose. This helps in keeping the code focused, making it easier to understand, modify, and maintain.
+
 ```csharp
 ﻿using System;
 using System.Collections.Generic;
